@@ -1,2 +1,2 @@
 # kody1
-Kody źródłowe nauka programowania
+Kody źródłowe C++ i Pythona nauka programowania
